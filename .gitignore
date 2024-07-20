@@ -1,2 +1,5 @@
-/build
+# 当前目录中的build被忽略
+/build/
+# 所有名为 build 的文件夹均被忽略
+#build/
 *.css
